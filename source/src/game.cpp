@@ -130,3 +130,5 @@ void Game::update(float elapsedTime) {
 		this->_player.handleEnemyCollisions(otherEnemies);
 	}
 }
+
+// This is the changed one
