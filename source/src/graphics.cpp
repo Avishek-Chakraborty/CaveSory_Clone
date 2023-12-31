@@ -7,7 +7,7 @@
 
 
 /* Graphics class
- * Holds all information dealing with graphics for the game
+ * Holds all information dealing with graphics for the game 
  */
 
 Graphics::Graphics() {
